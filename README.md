@@ -1,16 +1,38 @@
+<samp>
 Hi, i'm Katie!
+</samp>
+<br><br>
 
-🔭 **What am I working on?**
+![](https://media1.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=ecf05e4791b528812eb5bc06c8751b2c5f50a38134fe8c91&rid=giphy.gif)
 
-I work at GitHub. I'm currently working with a team to make [GitHub Classroom](https://classroom.github.com/) where we focus on making the lives of educators easier and less stressful by way of better tooling. 
+<br><br>
 
-
-🤓 **What am I learning these days?**
+<samp>🤓 **What am I learning these days?** </samp>
 
 Trying to increase my data science skills by learning R and Python! 
 
 ![](https://media0.giphy.com/media/rIq6ASPIqo2k0/giphy.gif?cid=ecf05e47787dc577f9517ffe589c7a9fc39d3a6521270257&rid=giphy.gif)
 
-👯 **I'm looking for help with...**
+<br><br>
 
-Understanding how teachers and educators are using GitHub! If you want to talk to me please DM me on Twitter [here](https://twitter.com/whatisakatie) and we can find some time. 
+<samp> 🔭 **What am I working on?** </samp>
+
+I'm currently a **Product Manager** at **GitHub** working on [GitHub Classroom](https://classroom.github.com/). We care on making the lives of educators easier and less stressful by way of better tooling. 
+
+![](https://media3.giphy.com/media/SMUU1kqueXlbW/giphy.gif?cid=ecf05e47fe12a88acc2aea9a743a408c5716db292a1b1d2b&rid=giphy.gif)
+
+<br><br>
+
+<samp> 👯 **I'm looking for help with.** </samp>
+
+Understanding how teachers and educators are using GitHub! If you want to talk to me please reach out on any of the platforms below. 
+
+<kbd> 🕴🏻 [linkedin](https://www.linkedin.com/in/katiesipos/) 🕴🏻  </kbd>
+
+<kbd> 🐦 [twitter](https://twitter.com/whatisakatie) 🐦 </kbd>
+
+<samp> 🌟 My 2020 goal </samp>
+
+Boost my data portfolio a bit by conducting some quantitative analysis on public datasets. Do you know any particularly cool/interesting datasets? Let me know! :heart: 
+
+
