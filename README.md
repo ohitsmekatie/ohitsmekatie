@@ -31,7 +31,9 @@ Understanding how teachers and educators are using GitHub! If you want to talk t
 
 <kbd> 🐦 [twitter](https://twitter.com/whatisakatie) 🐦 </kbd>
 
-<samp> 🌟 My 2020 goal </samp>
+<br><br>
+
+<samp> 🌟 **My 2020 goal** </samp>
 
 Boost my data portfolio a bit by conducting some quantitative analysis on public datasets. Do you know any particularly cool/interesting datasets? Let me know! :heart: 
 
