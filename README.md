@@ -17,7 +17,7 @@ Trying to increase my data science skills by learning R and Python!
 
 <samp> 🔭 **What am I working on?** </samp>
 
-I'm currently a **Product Manager** at **GitHub** working on [GitHub Classroom](https://classroom.github.com/). We care on making the lives of educators easier and less stressful by way of better tooling. 
+I'm currently a **Product Manager** at **GitHub** working on [GitHub Classroom](https://classroom.github.com/). We care about making the lives of educators easier and less stressful by way of better tooling. 
 
 ![](https://media3.giphy.com/media/SMUU1kqueXlbW/giphy.gif?cid=ecf05e47fe12a88acc2aea9a743a408c5716db292a1b1d2b&rid=giphy.gif)
 
