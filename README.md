@@ -25,7 +25,7 @@ I'm currently a **Product Manager** at **GitHub** working on [GitHub Classroom](
 
 <samp> 👯 **I'm looking for help with.** </samp>
 
-Understanding how teachers and educators are using GitHub! If you want to talk to me please reach out on any of the platforms below. 
+Understanding the workflow of teachers and educators. I want to learn about your tools/processes/gripes/praises/everything! If you want to talk to me please reach out on any of the platforms below. 
 
 <kbd> 🕴🏻 [linkedin](https://www.linkedin.com/in/katiesipos/) 🕴🏻  </kbd>
 
