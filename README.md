@@ -9,7 +9,7 @@
 
 <samp>🤓 **What am I learning these days?** </samp>
 
-Trying to increase my data science skills by learning R and Python! 
+Trying to increase my data science skills by learning R and Python! You can check out some of my recent projects [on my website](http://whatisakatie.com/).
 
 ![](https://media0.giphy.com/media/rIq6ASPIqo2k0/giphy.gif?cid=ecf05e47787dc577f9517ffe589c7a9fc39d3a6521270257&rid=giphy.gif)
 
