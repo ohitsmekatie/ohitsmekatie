@@ -33,8 +33,8 @@ Understanding the workflow of teachers and educators. I want to learn about your
 
 <br><br>
 
-<samp> 🌟 **My 2020 goal** </samp>
+<samp> 🌟 **My 2021 goal** </samp>
 
-Boost my data portfolio a bit by conducting some quantitative analysis on public datasets. Do you know any particularly cool/interesting datasets? Let me know! :heart: 
+![](https://media0.giphy.com/media/WUCeGnXVcSOoDbhZcW/giphy.gif?cid=ecf05e47ol0kn2tlh3xsvf7275jgghhxfabv20hzkx3v7e6u&rid=giphy.gif)
 
 
