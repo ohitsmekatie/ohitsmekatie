@@ -15,8 +15,5 @@ Always trying to find new/intersting things to do with SQL & Python.  You can ch
 
 <br><br>
 
-<samp> 🌟 **My 2021 goal** </samp>
-
-![](https://media0.giphy.com/media/WUCeGnXVcSOoDbhZcW/giphy.gif?cid=ecf05e47ol0kn2tlh3xsvf7275jgghhxfabv20hzkx3v7e6u&rid=giphy.gif)
 
 
