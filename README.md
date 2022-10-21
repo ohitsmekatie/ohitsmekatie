@@ -9,7 +9,8 @@
 
 <samp>🤓 **What am I learning these days?** </samp>
 
-Always trying to find new/intersting things to do with SQL & Python.  You can check out some of my recent projects [on my website](http://whatisakatie.com/).
+Always trying to find new/intersting things to do with SQL & Python. You can check out some of my older projects [on my website](http://whatisakatie.com/) to get an idea of what kind of data is interesting to me when i'm not working. 
+
 
 ![](https://media0.giphy.com/media/rIq6ASPIqo2k0/giphy.gif?cid=ecf05e47787dc577f9517ffe589c7a9fc39d3a6521270257&rid=giphy.gif)
 
