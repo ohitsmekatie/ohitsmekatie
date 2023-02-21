@@ -7,7 +7,7 @@
 
 <br><br>
 
-Currently i'm working as an analyst & analytics engineer at [PlanetScale](https://planetscale.com/).
+Currently i'm working as an analyst & analytics engineer at [PlanetScale](https://planetscale.com/). If you'd like to learn more about what I do check out [my website](https://whatisakatie.com/) or the pinned repos below.
 
 
 
