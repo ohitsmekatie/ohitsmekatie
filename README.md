@@ -7,7 +7,9 @@
 
 <br><br>
 
-I'm an analytics engineer / analyst. If you'd like to learn more about what I do check out [my website](https://whatisakatie.com/) or the pinned repos below.
+I'm an currently an **analytics engineer** but I have held many jobs in tech (Data Analyst, Product Manager, Project Manager). 
+
+
 
 
 
