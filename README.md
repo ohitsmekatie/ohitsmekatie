@@ -7,7 +7,7 @@
 
 <br><br>
 
-I'm an currently an **analytics engineer** but I have held many jobs in tech (Data Analyst, Product Manager, Project Manager). 
+I'm an currently an **analytics engineer** but I have held many jobs in tech (Data Analyst, Product Manager, Project Manager). You can see some of my work at the pinned repos below. 
 
 
 
