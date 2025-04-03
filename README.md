@@ -9,7 +9,7 @@
 
 I'm an currently an **analytics engineer** but I have held many jobs in tech (Data Analyst, Product Manager, Project Manager). You can see some of my work at the pinned repos below. 
 
+<br>
 
-
-
+I love role playing games and recently have gotten into content creation (zines, isometric maps, etc). I recently built a website to help with the ideation part of worldbuiling and you can visit it at [ohitsmeables.com](ohitsmetables.com). It also gave me an oppotunity to use Flask, Poetry, and experiment with a living database using Google Sheets which was important for me to have so that I can share the content creation piece with folks who might not be as technical.
 
