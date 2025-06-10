@@ -13,3 +13,8 @@ I'm an currently an **analytics engineer** but I have held many jobs in tech (Da
 
 I love role playing games and recently have gotten into content creation (zines, isometric maps, etc). I recently built a website to help with the ideation part of worldbuiling and you can visit it at www.ohitsmetables.com. It also gave me an oppotunity to use Flask, Poetry, and experiment with a living database using Google Sheets which was important for me to have so that I can share the content creation piece with folks who might not be as technical.
 
+<br> 
+
+👀 Currently trying to find opportunities to volunteer my tech skills w/ non-profits or progressive organizations that might need help 👀 
+
+
