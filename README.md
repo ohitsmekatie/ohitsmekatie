@@ -21,8 +21,8 @@ The site features a few random content generators for world building and also a 
 
 ## 📫 Let’s Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/katiesipos/)
-- [Personal Website]([https://yourdomain.com](https://whatisakatie.me/)
+- [LinkedIn](https://www.linkedin.com/in/katiesipos/)
+- [Personal Website](https://whatisakatie.me/)
 
 
 🌻
